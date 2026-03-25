@@ -23,7 +23,7 @@ def create_table():
 
 # weather api
 
-API_KEY = "1386194825985e3fa8d19f01c3819826"
+API_KEY = "5562519f07a31e9b7a94036194028aeb"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 
